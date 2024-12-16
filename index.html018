@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>ola</h1>
+<p>BEM VINDO (a).</p>
+
+</body>
+</html>
+COLOQUE SEUS DADOS
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML Forms</h2>
+<form action="/action_page.php">
+  <label for="fname">Primeiro nome:</label><br>
+  <input type="text" id="fname" name="fname" value="maria"><br>
+  <label for="lname">Sobrenome:</label><br>
+  <input type="text" id="lname" name="lname" value="edurda"><br><br>
+  <input type="submit" value="Confirmar">
+</form>
+  <input type= "text" id="obrigado" "por" "confiar" ><br>
+<p>If you click the "Submit" button, the form-data will be sent to a page called "BANCO DE DADOS GERIAS".</p>
